@@ -257,4 +257,32 @@
         width: 100%;
         height: auto;
     }
+
+    .module-h {
+        padding: 14vw 10vw;
+    }
+
+    .module-h-title {
+        font-size: 8vw;
+        margin-bottom: 5vw;
+        text-align: center;
+    }
+
+    .toggle-box .title{
+      font-size: 3.4vw;
+    }
+
+    .toggle-box.active .title{
+        margin-bottom: 3.4vw;
+    }
+
+    .toggle-box .text{
+        font-size: 3vw;
+    }
+
+    .toggle-box svg{
+        width: 3vw;
+        height: 3vw;
+    }
+
 }

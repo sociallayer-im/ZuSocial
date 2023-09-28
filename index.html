@@ -209,5 +209,46 @@
             From ZuConnect</p>
     </div>
 </div>
+
+<div class="module module-h">
+    <h2 class="module-h-title">Q&A</h2>
+    <div class="toggle-box">
+        <div class="title">
+            <svg class="compact" xmlns="http://www.w3.org/2000/svg" width="21" height="22" viewBox="0 0 21 22" fill="none">
+                <line x1="0.236328" y1="10.5" x2="20.8505" y2="10.5" stroke="#F8FFFE" stroke-width="3"/>
+                <line x1="10.918" y1="22" x2="10.918" stroke="#F8FFFE" stroke-width="3"/>
+            </svg>
+            <svg class="open" xmlns="http://www.w3.org/2000/svg" width="21" height="22" viewBox="0 0 21 22" fill="none">
+                <line x1="0.236328" y1="10.5" x2="20.8505" y2="10.5" stroke="#F8FFFE" stroke-width="3"/>
+            </svg>
+           <span> What is this hacker house about?</span>
+        </div>
+        <div class="text">
+            This is a hacker house that brings together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo.
+        </div>
+    </div>
+    <div class="toggle-box">
+        <div class="title">
+            <svg class="compact" xmlns="http://www.w3.org/2000/svg" width="21" height="22" viewBox="0 0 21 22" fill="none">
+                <line x1="0.236328" y1="10.5" x2="20.8505" y2="10.5" stroke="#F8FFFE" stroke-width="3"/>
+                <line x1="10.918" y1="22" x2="10.918" stroke="#F8FFFE" stroke-width="3"/>
+            </svg>
+            <svg class="open" xmlns="http://www.w3.org/2000/svg" width="21" height="22" viewBox="0 0 21 22" fill="none">
+                <line x1="0.236328" y1="10.5" x2="20.8505" y2="10.5" stroke="#F8FFFE" stroke-width="3"/>
+            </svg>
+           <span> What is this hacker house about?</span>
+        </div>
+        <div class="text">
+            This is a hacker house that brings together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo.
+        </div>
+    </div>
+</div>
 </body>
+<script>
+    document.querySelectorAll('.toggle-box').forEach(function (item) {
+        item.addEventListener('click', function () {
+            this.classList.toggle('active')
+        })
+    })
+</script>
 </html>

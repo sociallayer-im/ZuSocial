@@ -474,7 +474,7 @@ body {
 }
 
 .module-g {
-    padding: 165px 116px 105px 116px;
+    padding: 165px 116px 50px 116px;
     box-sizing: border-box;
 }
 
@@ -542,4 +542,67 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+
+.module-h {
+    padding: 42px 124px;
+    box-sizing: border-box;
+}
+
+.module-h-title {
+    color: #F8FFFE;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.toggle-box {
+    cursor: pointer;
+    border-bottom: 3px solid #fff;
+    margin-bottom: 27px;
+}
+
+.toggle-box .open {
+    display: none;
+}
+
+.toggle-box.active .open {
+    display: inline;
+}
+
+.toggle-box.active .compact {
+    display: none;
+}
+
+.toggle-box .title {
+    color: #F8FFFE;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 20px;
+}
+
+.toggle-box .text {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-height: 0;
+    overflow: hidden;
+}
+
+.toggle-box.active {
+    padding-bottom: 30px;
+}
+
+.toggle-box.active .text {
+    max-height: 300px;
+}
+
+.toggle-box.active .title {
+    margin-bottom: 30px;
 }
