@@ -227,4 +227,34 @@
         height: auto;
         bottom: initial;
     }
+
+    .module-g {
+        padding: 14vw 14vw;
+    }
+
+    .module-g-title {
+        font-size: 8vw;
+        margin-bottom: 5vw
+    }
+
+    .module-g-des {
+        font-size: 3vw;
+    }
+
+    .map-link-1{
+        display: none;
+    }
+
+    .map-link-2 {
+        display: block;
+        border-radius: 25px;
+        overflow: hidden;
+        width: 74vw;
+        height: 87vw;
+    }
+
+    .map-link-2 img {
+        width: 100%;
+        height: auto;
+    }
 }

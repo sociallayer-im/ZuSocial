@@ -472,3 +472,74 @@ body {
 .join-btn-2:active {
     transform: scale(1.05) translateY(2px);
 }
+
+.module-g {
+    padding: 165px 116px 105px 116px;
+    box-sizing: border-box;
+}
+
+.module-g-icon {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 29px auto;
+}
+
+.module-g-title {
+    margin-top: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 38px;
+}
+
+.map-link-1 {
+    width: 969px;
+    height: 458px;
+    border-radius: 25px;
+}
+
+.map-link-1  img{
+    width: 100%;
+    height: 100%;
+}
+
+.map-link-2 {
+    display: none;
+}
+
+
+.module-g-des {
+    color: #F8FFFE;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.module-g-guide {
+    margin-top: 46px;
+}
+
+.module-g-guide p{
+    margin-top: 0;
+    color: #F8FFFE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.module-g-guide b {
+    color: #F8FFFE;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
