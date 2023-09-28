@@ -195,4 +195,36 @@
     .module-e-inner .item .des {
         font-size: 2.7vw;
     }
+
+    .module-f {
+        padding: 17vw 10vw 15vw 10vw;
+    }
+
+    .module-f-title {
+        font-size: 8vw;
+        margin-bottom: 26px;
+    }
+
+    .module-f-title br{
+        display: inline;
+    }
+
+    .module-f-des {
+        font-size: 4vw;
+    }
+
+    .module-f-sub {
+        flex-direction: column;
+    }
+
+    .module-f-sub .item {
+        width: auto;
+        font-size: 4vw;
+    }
+
+    .join-btn-2 {
+        width: 72vw;
+        height: auto;
+        bottom: initial;
+    }
 }

@@ -198,6 +198,7 @@ body {
     font-weight: 700;
     line-height: normal;
     margin-top: 12px;
+    margin-bottom: 80px;
 }
 
 .module-c-inner {
@@ -327,7 +328,7 @@ body {
 }
 
 .module-e {
-    padding: 0 99px 99px 99px;
+    padding: 0 99px 30px 99px;
     box-sizing: border-box;
 }
 
@@ -396,4 +397,78 @@ body {
     font-weight: 400;
     line-height: normal;
     text-decoration-line: underline;
+}
+
+.module-f{
+    padding: 93px 80px;
+    box-sizing: border-box;
+}
+
+.module-f-icon {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 29px auto;
+}
+
+.module-f-title {
+    margin-top: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 64px;
+}
+
+.module-f-title br {
+    display: none;
+}
+
+.module-f-des {
+    color: #F8FFFE;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0;
+}
+
+.module-f-sub {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.module-f-sub .item {
+    width: 50%;
+    color: #F8FFFE;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.module-f-sub .item p {
+    margin-top: 0;
+}
+
+.join-btn-2 {
+    margin: 55px auto 0 auto;
+    width: 414px;
+    height: 92px;
+    display: block;
+}
+
+.join-btn-2 img{
+    width: 100%;
+    height: auto;
+}
+
+.join-btn-2:hover {
+    transform: scale(1.05);
+}
+
+.join-btn-2:active {
+    transform: scale(1.05) translateY(2px);
 }
