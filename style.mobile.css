@@ -285,4 +285,32 @@
         height: 3vw;
     }
 
+    .module-i-title {
+        margin-bottom: 15vw;
+        font-size: 8vw;
+    }
+
+    .module-i-links {
+        flex-direction: column;
+    }
+
+    .module-i-links a {
+        margin-bottom: 9vw;
+    }
+
+    .module-i-links a:nth-child(1) img {
+        width: 55vw;
+        height: auto;
+    }
+
+    .module-i-links a:nth-child(2) img {
+        width: 30vw;
+        height: auto;
+    }
+
+    .module-i-links a:nth-child(3) img {
+        width: 48vw;
+        height: auto;
+    }
+
 }

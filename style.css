@@ -606,3 +606,24 @@ body {
 .toggle-box.active .title {
     margin-bottom: 30px;
 }
+
+.module-i {
+    padding: 42px 0;
+}
+
+.module-i-title {
+    color: #F8FFFE;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.module-i-links {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    align-items: center;
+}
