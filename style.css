@@ -627,3 +627,38 @@ body {
     margin-bottom: 30px;
     align-items: center;
 }
+
+.module-j {
+    padding: 42px 86px 74px 86px;
+    box-sizing: border-box;
+}
+
+.module-j-title {
+    color: #F8FFFE;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.module-j-inner {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.module-j-inner  .left {
+    color: #F8FFFE;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 150% */
+    padding-left: 30px;
+}
+
+.module-j-inner  .right  img{
+    width: 209px;
+    height: 235px;
+}

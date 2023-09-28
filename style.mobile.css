@@ -313,4 +313,18 @@
         height: auto;
     }
 
+    .module-j-inner {
+        flex-direction: column;
+    }
+
+    .module-j-inner .left {
+        padding-left: 0;
+        font-size: 3.4vw;
+        margin-bottom: 18vw;
+    }
+
+    .module-j-inner .right img{
+        width: 32vw;
+        height: auto;
+    }
 }
