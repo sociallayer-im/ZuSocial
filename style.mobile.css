@@ -66,12 +66,12 @@
 
     .module-inner-left-des {
         width: 100%;
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .module-inner-left-title {
         width: auto;
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .scroll-box {
@@ -81,7 +81,7 @@
     }
 
     .scroll-box-inner {
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .module-c {
@@ -95,7 +95,7 @@
     }
 
     .module-c-title {
-        font-size: 9vw;
+        font-size: 8vw;
     }
 
     .module-c-inner {
@@ -114,11 +114,11 @@
     }
 
     .module-c-inner-left .item .main {
-        font-size: 11vw;
+        font-size: 10vw;
     }
 
     .module-c-inner-left .item .sub {
-        font-size: 7vw;
+        font-size: 6vw;
     }
 
     .module-c-inner-right {
@@ -136,11 +136,11 @@
     }
 
     .module-c-inner-right .item .main{
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .module-c-inner-right .item .sub{
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .module-d {
@@ -148,7 +148,7 @@
     }
 
     .module-d-title {
-        font-size: 6.2vw;
+        font-size: 5.2vw;
         margin-bottom: 0;
     }
 
@@ -176,7 +176,7 @@
     }
 
     .module-e-title {
-        font-size: 8vw;
+        font-size: 7vw;
     }
 
     .module-e-inner .item{
@@ -189,11 +189,11 @@
     }
 
     .module-e-inner .item .name {
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .module-e-inner .item .des {
-        font-size: 2.7vw;
+        font-size: 1.7vw;
     }
 
     .module-f {
@@ -201,7 +201,7 @@
     }
 
     .module-f-title {
-        font-size: 8vw;
+        font-size: 7vw;
         margin-bottom: 26px;
     }
 
@@ -210,7 +210,7 @@
     }
 
     .module-f-des {
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .module-f-sub {
@@ -219,7 +219,7 @@
 
     .module-f-sub .item {
         width: auto;
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .join-btn-2 {
@@ -233,12 +233,12 @@
     }
 
     .module-g-title {
-        font-size: 8vw;
+        font-size: 7vw;
         margin-bottom: 5vw
     }
 
     .module-g-des {
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .map-link-1{
@@ -263,13 +263,13 @@
     }
 
     .module-h-title {
-        font-size: 8vw;
+        font-size: 7vw;
         margin-bottom: 5vw;
         text-align: center;
     }
 
     .toggle-box .title{
-      font-size: 3.4vw;
+      font-size: 2.4vw;
     }
 
     .toggle-box.active .title{
@@ -277,7 +277,7 @@
     }
 
     .toggle-box .text{
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .toggle-box svg{
@@ -287,7 +287,7 @@
 
     .module-i-title {
         margin-bottom: 15vw;
-        font-size: 8vw;
+        font-size: 7vw;
     }
 
     .module-i-links {
@@ -319,7 +319,7 @@
 
     .module-j-inner .left {
         padding-left: 0;
-        font-size: 3.4vw;
+        font-size: 2.4vw;
         margin-bottom: 18vw;
     }
 

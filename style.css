@@ -123,7 +123,7 @@ body {
 .module-inner-left-title {
     width: 564px;
     color: #FFF;
-    font-size: 40px;
+    font-size: 46px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -132,7 +132,7 @@ body {
 
 .module-inner-left-des {
     color: #FFF;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -170,7 +170,7 @@ body {
     color: #FFF;
     font-family: Inter;
     text-align: justify;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 28px;
@@ -193,7 +193,7 @@ body {
 .module-c-title {
     color: #FFF;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -217,7 +217,7 @@ body {
 
 .module-c-inner-left .item .main {
     color: #FFF;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -225,7 +225,7 @@ body {
 
 .module-c-inner-left .item .sub {
     color: #FFF;
-    font-size: 36px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -245,7 +245,7 @@ body {
 
 .module-c-inner-right .item .main {
     color: #FFF;
-    font-size: 32px;
+    font-size: 28px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -254,7 +254,7 @@ body {
 
 .module-c-inner-right .item .sub {
     color: #FFF;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -292,7 +292,7 @@ body {
 .module-d-title {
     color: #FFF;
     text-align: center;
-    font-size: 48px;
+    font-size: 44px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -314,7 +314,7 @@ body {
     justify-content: center;
     color: #FFF;
     text-align: center;
-    font-size: 32px;
+    font-size: 28px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -343,7 +343,7 @@ body {
     margin-top: 0;
     color: #FFF;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -376,7 +376,7 @@ body {
 .module-e-inner .item .name {
     color: #FFF;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -384,7 +384,7 @@ body {
 
 .module-e-inner .item .des {
     color: #FFF;
-    font-size: 16px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -392,7 +392,7 @@ body {
 
 .module-e-inner .item .link {
     color: #FFF;
-    font-size: 16px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -415,7 +415,7 @@ body {
     margin-top: 0;
     color: #FFF;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -428,7 +428,7 @@ body {
 
 .module-f-des {
     color: #F8FFFE;
-    font-size: 40px;
+    font-size: 36px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -443,7 +443,7 @@ body {
 .module-f-sub .item {
     width: 50%;
     color: #F8FFFE;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -489,7 +489,7 @@ body {
     margin-top: 0;
     color: #FFF;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -514,7 +514,7 @@ body {
 
 .module-g-des {
     color: #F8FFFE;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -529,7 +529,7 @@ body {
 .module-g-guide p{
     margin-top: 0;
     color: #F8FFFE;
-    font-size: 16px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -538,7 +538,7 @@ body {
 .module-g-guide b {
     color: #F8FFFE;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -552,7 +552,7 @@ body {
 .module-h-title {
     color: #F8FFFE;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -579,7 +579,7 @@ body {
 
 .toggle-box .title {
     color: #F8FFFE;
-    font-size: 32px;
+    font-size: 28px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -588,7 +588,7 @@ body {
 
 .toggle-box .text {
     color: #FFF;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -615,7 +615,7 @@ body {
 .module-i-title {
     color: #F8FFFE;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -637,7 +637,7 @@ body {
 .module-j-title {
     color: #F8FFFE;
     text-align: center;
-    font-size: 64px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -652,7 +652,7 @@ body {
 
 .module-j-inner  .left {
     color: #F8FFFE;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 700;
     line-height: 30px; /* 150% */
