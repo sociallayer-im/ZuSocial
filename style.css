@@ -298,6 +298,10 @@ body {
     margin-bottom: 0;
 }
 
+.module-d-title br.mobile {
+    display: none;
+}
+
 .module-d-links {
     display: flex;
     flex-flow: row wrap;
@@ -661,4 +665,8 @@ body {
 .module-j-inner  .right  img{
     width: 209px;
     height: 235px;
+}
+
+.footer {
+    display: none;
 }

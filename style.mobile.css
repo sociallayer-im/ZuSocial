@@ -1,4 +1,10 @@
 @media (max-width: 576px) {
+    .footer {
+        display: block;
+        width: 70vw;
+        margin: 0 auto 30px auto;
+    }
+
     .module {
         width: 100%;
     }
@@ -194,6 +200,7 @@
 
     .module-e-inner .item .des {
         font-size: 1.7vw;
+        white-space: nowrap;
     }
 
     .module-f {
@@ -325,6 +332,130 @@
 
     .module-j-inner .right img{
         width: 32vw;
+        height: auto;
+    }
+}
+
+@media (max-width: 376px) {
+    .module-a-1, .module-a-2 {
+        font-size: 28px;
+    }
+
+    .join-btn-1 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .module-inner-left-title {
+        font-size: 32px;
+    }
+
+    .module-inner-left-des {
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+    .module-c-title {
+        font-size: 36px;
+    }
+
+    .module-c-inner-left .item .main {
+        font-size: 48px;
+    }
+
+    .module-c-inner-left .item .main {
+        font-size: 48px;
+    }
+
+    .module-c-inner-left .item .sub {
+        font-size: 24px;
+    }
+
+    .module-c-inner-right .item .main {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .module-c-inner-right .item .sub {
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+    .module-d-title {
+        font-size: 24px;
+    }
+
+    .module-d-title br.mobile {
+        display: inline;
+    }
+
+    .module-d-links a {
+        font-size: 24px;
+    }
+
+    .module-e-title {
+        font-size: 36px;
+    }
+
+    .module-e-inner .item .name {
+        font-size: 16px;
+    }
+
+    .module-e-inner .item .des {
+        font-size: 14px;
+    }
+
+    .module-f-title {
+        font-size: 36px;
+    }
+
+    .module-f-des {
+        font-size: 18px;
+    }
+
+    .module-f-sub .item {
+        font-size: 20px;
+    }
+
+    .module-g-title {
+       font-size: 36px;
+    }
+
+    .toggle-box .title {
+        font-size: 24px;
+        display: flex;
+        flex-flow: row nowrap;
+        padding-left: 0!important;
+        padding-bottom: 6px;
+    }
+
+    .toggle-box svg {
+        min-width: 20px;
+        height: 20px;
+        margin-top: 8px;
+        margin-right: 5px;
+    }
+
+    .toggle-box .text {
+        font-size: 18px;
+    }
+
+    .module-i-title {
+        font-size: 36px;
+    }
+
+    .logo {
+        top: 40px;
+    }
+
+    .module {
+        padding-left: 28px!important;
+        padding-right: 28px!important;
+        box-sizing: border-box;
+    }
+
+    .map-link-2 {
+        width: auto;
         height: auto;
     }
 }
